@@ -10,10 +10,10 @@ const styles = StyleSheet.create({
     backgroundColor: "#c70039",
     padding: 10,
     borderRadius: 5,
+    marginTop: 20,
   },
   text: {
-    color: "white",
-    textAlign: "center",
+    color: "#fff",
   },
 });
 
