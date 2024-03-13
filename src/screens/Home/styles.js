@@ -6,6 +6,15 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
   },
+  button: {
+    backgroundColor: "#c70039",
+    padding: 10,
+    borderRadius: 5,
+  },
+  text: {
+    color: "white",
+    textAlign: "center",
+  },
 });
 
 export default styles;
